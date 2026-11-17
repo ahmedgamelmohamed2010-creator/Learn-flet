@@ -17,9 +17,10 @@ dev = [
 
 [tool.flet]
 org = "com.example"
-product = "Flet Arabic"
+product = "الله واكبر"
 company = "Ahmed"
 copyright = "Copyright 2026"
 
 [tool.flet.android]
 min_sdk_version = 24
+icon = "icon/img.png"
