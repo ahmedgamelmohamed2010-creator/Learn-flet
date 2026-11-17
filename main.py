@@ -13,7 +13,7 @@ def main (page:Page):
       FilledButton(
         "الاعدادات",
         icon= Icons.SETTINGS,
-        on_click = lambda e: page.navigate("/setting")
+        on_click = lambda e: page.navigate("/settings")
       ),
 
       FilledButton(
@@ -59,7 +59,7 @@ def main (page:Page):
       FilledButton(
         "الاعدادات",
         icon= Icons.SETTINGS,
-        on_click = lambda e: page.navigate("/setting")
+        on_click = lambda e: page.navigate("/settings")
       ),
 
       FilledButton(
